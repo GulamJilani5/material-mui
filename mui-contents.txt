@@ -1,0 +1,37 @@
+### Installation
+   npm install @mui/material @emotion/react @emotion/styled
+   npm install @mui/icons-material
+
+### navigation
+   
+    1) navbar
+          <AppBar></AppBar>
+          <Toolbar></Toolbar>
+    2) Bottom Navigation
+    3) Breadcrumb
+    4) Drawer(sidebar)
+    5) Link
+    6) Menu
+    7) Pagination
+    8) Speed Dial
+    9) Stepper
+    10) Tabs
+
+### Data Display
+    1) Avtar
+    2) Badge
+    3) Chip
+    4) Divider
+
+### Feedback
+    1) Alert - non-interupptive
+    2) Backdrop - Creating dialog, loader etc...
+    3) Dialog  - interupptive
+    4) Progress - (Spinner)
+    5) Skeleton
+    6) Snackbar(Toast)
+
+     
+
+
+
